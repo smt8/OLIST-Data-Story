@@ -3,7 +3,7 @@
 </p>
 <h2>Description</h2>
 <h3>
-<p>We particilated in a project cometition organised by Business Analytocs Leadership Council (BALC). We were given OLIST e-commerce data From Kaggle, it's a brazillian marketplace like Amazon in the US. My team had to suggests recommendations based on it to improve business, the data set has 1.4 Million rows and about 500 Columns. We used python to clean, examine, and model data and also had to do a lot of feature engineering and later built dashboards to show the findings. Following are the recommendations: </p>
+<p>We participated in a project cometition organised by Business Analytocs Leadership Council (BALC). We were given OLIST e-commerce data From Kaggle, it's a brazillian marketplace like Amazon in the US. My team had to suggests recommendations based on it to improve business, the data set has 1.4 Million rows and about 500 Columns. We used python to clean, examine, and model data and also had to do a lot of feature engineering and later built dashboards to show the findings. Following are the recommendations: </p>
 <h3>
 <H1>Recommendations to OLIST </H1>
 <br>
