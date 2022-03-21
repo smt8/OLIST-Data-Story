@@ -1,6 +1,4 @@
-# OLIST Data Story
-
-<H1>OLIST E-Commerce Kaggle - Podium Finish</H1><p>
+<H1>OLIST Data Story</H1><p>
     <img src="OLIST Final Dashboard Screenshots/—Pngtree—hand drawn illustration racing car_3932257.png" width="220" height="240" />
 </p>
 <h2>Description</h2>
