@@ -48,8 +48,11 @@ Since CC’s usage grows exponentially over the years. Olist can consider launch
 <br>
 <br>
 https://medium.com/@deelipku23/review-prediction-brazilian-e-commerce-dataset-7f4312e0e5d5
+    
 https://olist.com/branded-store/
+    
 https://labsnews.com/en/articles/business/olist-raises-brl-310-million-round-from-softbank-and-announces-clickspace-acquisition/
+
 https://pitchbook.com/profiles/company/102473-65#competitors
 <p>
     <img src="OLIST Final Dashboard Screenshots/0003.jpg" />
