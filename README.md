@@ -47,13 +47,23 @@
 Since CC’s usage grows exponentially over the years. Olist can consider launching their own credit card (co-branded cards) with incentive events or reward points…etc to increase sales. 
 <br>
 <br>
+
 https://medium.com/@deelipku23/review-prediction-brazilian-e-commerce-dataset-7f4312e0e5d5
+    
+<br>
     
 https://olist.com/branded-store/
     
+ <br>
+    
 https://labsnews.com/en/articles/business/olist-raises-brl-310-million-round-from-softbank-and-announces-clickspace-acquisition/
+    
+ <br>
 
 https://pitchbook.com/profiles/company/102473-65#competitors
+    
+
+ 
 <p>
     <img src="OLIST Final Dashboard Screenshots/0003.jpg" />
 </p>
